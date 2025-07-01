@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello 👋, I'm Pranav Krishna
 
-<!--
-**PranavKrishna6939/PranavKrishna6939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A quant enthusiast, part time robot tinkerer, and full time curious human at IIT Kanpur.  
+I love building smart, weird things with code.  
+If it involves markets, models, or machines, I’m probably already on it.
 
-Here are some ideas to get you started:
+- Built trading bots, robot swarms, and legal AI agents  
+- Python, Rust, Go | Deep learning + markets nerd  
+- Get your portfolio roasted by PortfolioBara: [roastmyportfolio.xyz](https://roastmyportfolio.xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=PranavKrishna6939&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrishna6939&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+
+### Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/pranav-krishna-247889224/)  
+- Drop a mail at: kpranav23@iitk.ac.in
