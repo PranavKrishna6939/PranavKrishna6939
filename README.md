@@ -6,7 +6,6 @@ If it involves markets, models, or machines, I’m probably already on it.
 
 - Built trading bots, robot swarms, and legal AI agents  
 - Python, Rust, Go | Deep learning + markets nerd  
-- Get your portfolio roasted by PortfolioBara: [roastmyportfolio.xyz](https://roastmyportfolio.xyz)
 
 ## GitHub Stats
 
